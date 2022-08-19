@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Abel Gebeyehu</h1>
-<h4 align="center">I'm a junior software developer and an aspiring full stack developer.</h4>  
+<h4 align="center">I'm a junior software developer and an aspiring full-stack developer.</h4>  
 
 
-- Welcome to my account, feel free to checkout any projects I've been working on.
-- I really enjoy coding 👩‍💻, reading and playing video games 🎮.
+- Welcome to my account, feel free to check out any projects I've been working on.
+- I really enjoy coding 👩‍💻, reading, and playing video games 🎮.
 - I'm currently majoring in software engineering.
-- I'm open to work with and collaborate on any project that use the tools mentioned below.
-- You can contact me via [abelgebeyehu101@gmail.com](abelgebeyehu101@gmail.com).
-- 📍 I'm from Ethiopia, Addis Ababa. 
+- I'm open to working with and collaborating on any project that uses the tools mentioned below.
+- You can contact me via abelgebeyehu101@gmail.com.
+- 📍 I'm from Ethiopia, Addis Ababa.
 - ⚡ Fun fact **I like to sketch and make illustrations.**
 
 <h3 align="left">Connect with me:</h3>
