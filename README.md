@@ -12,8 +12,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/abel-gebeyehu-779743183/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abel gebeyehu" height="30" width="40" /></a>
-  <a href="https://github.com/AbelG101" target="blank"><img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg'  alt="abel gebeyehu" height="30" width="40" ></a>  
+<a href="https://www.linkedin.com/in/abel-gebeyehu"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="4%" height="4%"/></a>
+&#8287;&#8287;&#8287;&#8287;&#8287;
+<a href="mailto:abelgebeyehu101@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" width="4%" height="4%"/></a>&#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -21,13 +22,13 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbelG101)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbelG101&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AbelG101&show_icons=true)  
+<img src="https://github-readme-stats.vercel.app/api?username=AbelG101&show_icons=true&count_private=true&theme=gotham" width="49.5%"/> <img src="https://github-readme-streak-stats.herokuapp.com?user=Sifat-Ahmed&theme=gotham" width="49.5%" height="10.0%"/> 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AbelG101)  
+<img src="https://activity-graph.herokuapp.com/graph?username=AbelG101&theme=gotham" width="100%"/> 
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=AbelG101)  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AbelG101&theme=gotham)](https://git.io/streak-stats)
 
 
 
