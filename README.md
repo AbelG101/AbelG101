@@ -24,7 +24,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbelG101&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://github-readme-stats.vercel.app/api?username=AbelG101&show_icons=true&count_private=true&theme=gotham" width="49.5%"/> <img src="https://github-readme-streak-stats.herokuapp.com?user=Sifat-Ahmed&theme=gotham" width="49.5%" height="10.0%"/> 
+<img src="https://github-readme-stats.vercel.app/api?username=AbelG101&show_icons=true&count_private=true&theme=gotham" width="49.5%"/>
 
 <img src="https://activity-graph.herokuapp.com/graph?username=AbelG101&theme=gotham" width="100%"/> 
 
