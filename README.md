@@ -22,7 +22,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbelG101&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbelG101&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://github-readme-stats.vercel.app/api?username=AbelG101&show_icons=true&count_private=true&theme=gotham" width="49.5%"/>
 
