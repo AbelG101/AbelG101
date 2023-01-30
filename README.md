@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abel Gebeyehu</h1>
-<h3 align="center">I'm a junior software developer and an aspiring full-stack developer.</h3>  
+<h3 align="center">I'm a junior software engineer and an aspiring full-stack web developer.</h3>  
 
 
 - Welcome to my account, feel free to check out any projects I've been working on.
