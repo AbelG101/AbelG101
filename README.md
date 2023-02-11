@@ -19,7 +19,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://github.com/AbelG101">
     <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,webpack,react,rails,postgres,git,bash,ai,figma,xd" />
   </a>
 </p>
