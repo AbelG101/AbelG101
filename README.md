@@ -7,7 +7,7 @@
 - I'm currently majoring in software engineering.
 - I'm open to working with and collaborating on any project that uses the tools mentioned below.
 - You can contact me via abelgebeyehu101@gmail.com.
-- 📍 I'm from Ethiopia, Addis Ababa.
+- 📍 I'm based in Ethiopia, Addis Ababa.
 - ⚡ Fun fact **I like to sketch and make illustrations.**
 
 <h3 align="left">Connect with me:</h3>
