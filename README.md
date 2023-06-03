@@ -29,7 +29,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=AbelG101&show_icons=true&count_private=true&theme=gotham" width="49.5%"/>
 
-[![Abel's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AbelG101&theme=gotham&area=true&hide_border=true)](https://github.com/AbelG101/github-readme-activity-graph)
+[![](https://github-readme-activity-graph.vercel.app/graph?username=AbelG101&theme=gotham)](https://github.com/AbelG101/github-readme-activity-graph)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=AbelG101&theme=gotham)](https://git.io/streak-stats)
 
