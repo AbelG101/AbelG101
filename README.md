@@ -24,14 +24,15 @@
   </a>
 </p>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbelG101&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbelG101&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://github-readme-stats.vercel.app/api?username=AbelG101&show_icons=true&count_private=true&theme=gotham" width="49.5%"/>
+-->
+
 
 [![](https://github-readme-activity-graph.vercel.app/graph?username=AbelG101&theme=gotham)](https://github.com/AbelG101/github-readme-activity-graph)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AbelG101&theme=gotham)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=AbelG101&theme=gotham&hide_border=true)](https://git.io/streak-stats)
 
 
 
