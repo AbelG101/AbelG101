@@ -24,15 +24,16 @@
   </a>
 </p>
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbelG101&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=AbelG101&show_icons=true&count_private=true&theme=gotham&hide_border=true" width="49.5%"/>
+  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbelG101&layout=compact&theme=gotham&hide_border=true" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=AbelG101&show_icons=true&count_private=true&theme=gotham" width="49.5%"/>
--->
 
 
-[![](https://github-readme-activity-graph.vercel.app/graph?username=AbelG101&theme=gotham)](https://github.com/AbelG101/github-readme-activity-graph)
+[![](https://github-readme-activity-graph.vercel.app/graph?username=AbelG101&theme=gotham&hide_border=true)](https://github.com/AbelG101/github-readme-activity-graph)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=AbelG101&theme=gotham&hide_border=true)](https://git.io/streak-stats)
+<p align="center"><img src="https://streak-stats.demolab.com?user=AbelG101&theme=gotham&hide_border=true" /></p>
 
 
 
